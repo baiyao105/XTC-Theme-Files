@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -151,6 +152,30 @@ def table_filp():
     return "## 🔄 翻转动画\n\n" + build_table(items)
 
 
+def parse_3rdparty(text: str) -> str:
+    names = []
+
+    for line in text.splitlines():
+        m = re.search(r"Signed-off-by:\s*(.+?)\s*<(.+?)>", line)
+        if m:
+            name, email = m.group(1), m.group(2)
+            names.append(f"[{name}](mailto:{email})")
+
+    if not names:
+        return ""
+
+    return f">*此资源由第三方提供: {' & '.join(names)}*\n"
+
+
+def get_3rdparty_info(item: Path) -> str:
+    flag = item / "_3rdpartyasset"
+    if not flag.exists():
+        return ""
+
+    text = flag.read_text(encoding="utf-8", errors="ignore")
+    return parse_3rdparty(text)
+
+
 def section_theme():
     base = ROOT / "Themes" / "theme_pack"
     out = ["## 🎨 主题", ""]
@@ -178,6 +203,7 @@ def section_theme():
 
         out.append(f"### {name}  ")
         out.append(f"- source: `{source}({tid})`\n")
+        out.append(get_3rdparty_info(item))
         if main.exists():
             out.append(md_img(main))
             out.append("")
@@ -208,6 +234,7 @@ def section_dial():
         out.append(f'<a id="{aid}"></a>')
         preview = item / "preview_main.png"
         out.append(f"### {did}\n")
+        out.append(get_3rdparty_info(item))
         if preview.exists():
             out.append(md_img(preview))
             out.append("")
@@ -237,6 +264,7 @@ def section_charge():
         video = item / "preview.mp4"
         out.append(f"### {name}  ")
         out.append(f"- source: `{source}({cid})`\n")
+        out.append(get_3rdparty_info(item))
 
         if video.exists():
             out.append(md_video(video))
@@ -268,6 +296,7 @@ def section_filp():
         preview = item / "preview.png"
         open_video = item / "open.mp4"
         close_video = item / "close.mp4"
+        out.append(get_3rdparty_info(item))
         sound_dir = sound_base / fid
         open_audio = sound_dir / "open.aac"
         close_audio = sound_dir / "close.aac"
