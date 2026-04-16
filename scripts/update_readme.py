@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-ROOT = Path.cwd()
+ROOT = Path.cwd().parent
 OUT_FILE = ROOT / "README.md"
 
 IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
@@ -43,7 +43,7 @@ def anchor(prefix: str, text: str) -> str:
     return f"{prefix}-{text.lower().replace(' ', '-').replace('_', '-')}"
 
 
-def build_table(items, cols=10):
+def build_table(items, cols=7):
     if not items:
         return ""
     rows = []
@@ -149,7 +149,7 @@ def table_filp():
 
         items.append(cell)
 
-    return "## 🔄 翻转动画\n\n" + build_table(items)
+    return "## 🔄 翻转动画\n\n" + build_table(items, 6)
 
 
 def parse_3rdparty(text: str) -> str:
@@ -202,7 +202,7 @@ def section_theme():
                     extras.append(f)
 
         out.append(f"### {name}  ")
-        out.append(f"- source: `{source}({tid})`\n")
+        out.append(f"- source: `{tid}({source})`\n")
         out.append(get_3rdparty_info(item))
         if main.exists():
             out.append(md_img(main))
@@ -263,7 +263,7 @@ def section_charge():
         img = item / "preview.png"
         video = item / "preview.mp4"
         out.append(f"### {name}  ")
-        out.append(f"- source: `{source}({cid})`\n")
+        out.append(f"- source: `{cid}({source})`\n")
         out.append(get_3rdparty_info(item))
 
         if video.exists():
@@ -356,9 +356,10 @@ def main():
         section_filp(),
     ]
 
-    OUT_FILE.write_text("\n".join(content), encoding="utf-8")
+    OUT_FILE.write_text("\n".join(content), encoding="utf-8", newline="\n")
     print("✅ README 已生成")
 
 
 if __name__ == "__main__":
     main()
+

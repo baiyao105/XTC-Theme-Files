@@ -1,7 +1,7 @@
-from pathlib import Path
 import json
+from pathlib import Path
 
-ROOT = Path.cwd()
+ROOT = Path.cwd().parent
 BASE = ROOT / "Themes" / "theme_pack"
 CONFIG = BASE / "config.json"
 
@@ -14,10 +14,7 @@ def read_json(p: Path):
 
 
 def write_json(p: Path, data):
-    p.write_text(
-        json.dumps(data, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
+    p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def collect_folders():
@@ -39,18 +36,13 @@ def main():
         return
 
     folders = collect_folders()
-    print("检测到主题：", folders)
-
+    print("主题:", folders)
     data = read_json(CONFIG)
     if not isinstance(data, dict):
         print("config.json 不是合法 JSON")
         return
-
-    # 👉 核心：统一替换所有 value
     new_data = replace_all_values(data, ",".join(folders))
-
     write_json(CONFIG, new_data)
-
     print("完成喵")
 
 
