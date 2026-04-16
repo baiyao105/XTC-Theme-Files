@@ -35,9 +35,9 @@
 
 | [<img src="Filp/data/animations/Conan/preview.png" width="120"><br>Conan](#filp-conan) | [<img src="Filp/data/animations/Cyberlightchess/preview.png" width="120"><br>Cyberlightchess](#filp-cyberlightchess) | [<img src="Filp/data/animations/Frozen/preview.png" width="120"><br>Frozen](#filp-frozen) | [<img src="Filp/data/animations/Frozenz9/preview.png" width="120"><br>Frozenz9](#filp-frozenz9) | [<img src="Filp/data/animations/Glarespacetime/preview.png" width="120"><br>Glarespacetime](#filp-glarespacetime) | [<img src="Filp/data/animations/Glittering/preview.png" width="120"><br>Glittering](#filp-glittering) |
 | --- | --- | --- | --- | --- | --- |
-| [<img src="Filp/data/animations/Gongtengxinyi/preview.png" width="120"><br>Gongtengxinyi](#filp-gongtengxinyi) | [<img src="Filp/data/animations/Hornets/preview.png" width="120"><br>Hornets](#filp-hornets) | [<img src="Filp/data/animations/IronMan/preview.png" width="120"><br>IronMan](#filp-ironman) | [<img src="Filp/data/animations/Kaleidoscope/preview.png" width="120"><br>Kaleidoscope](#filp-kaleidoscope) | [<img src="Filp/data/animations/LiHongTangLian/preview.png" width="120"><br>LiHongTangLian](#filp-lihongtanglian) | [<img src="Filp/data/animations/MechRevolution/preview.png" width="120"><br>MechRevolution](#filp-mechrevolution) |
+| [<img src="Filp/data/animations/Gongtengxinyi/preview.png" width="120"><br>工藤新一](#filp-gongtengxinyi) | [<img src="Filp/data/animations/Hornets/preview.png" width="120"><br>Hornets](#filp-hornets) | [<img src="Filp/data/animations/IronMan/preview.png" width="120"><br>IronMan](#filp-ironman) | [<img src="Filp/data/animations/Kaleidoscope/preview.png" width="120"><br>Kaleidoscope](#filp-kaleidoscope) | [<img src="Filp/data/animations/LiHongTangLian/preview.png" width="120"><br>LiHongTangLian](#filp-lihongtanglian) | [<img src="Filp/data/animations/MechRevolution/preview.png" width="120"><br>MechRevolution](#filp-mechrevolution) |
 | [<img src="Filp/data/animations/Mirrorlight/preview.png" width="120"><br>Mirrorlight](#filp-mirrorlight) | [<img src="Filp/data/animations/PhantomBlade/preview.png" width="120"><br>PhantomBlade](#filp-phantomblade) | [<img src="Filp/data/animations/Powderspace/preview.png" width="120"><br>Powderspace](#filp-powderspace) | [<img src="Filp/data/animations/Punkera/preview.png" width="120"><br>Punkera](#filp-punkera) | [<img src="Filp/data/animations/PurpleNightStar/preview.png" width="120"><br>PurpleNightStar](#filp-purplenightstar) | [<img src="Filp/data/animations/Qtzmechanics/preview.png" width="120"><br>Qtzmechanics](#filp-qtzmechanics) |
-| [<img src="Filp/data/animations/Spider/preview.png" width="120"><br>Spider](#filp-spider) | [<img src="Filp/data/animations/Streamspeed/preview.png" width="120"><br>Streamspeed](#filp-streamspeed) | [<img src="Filp/data/animations/Superplanet/preview.png" width="120"><br>Superplanet](#filp-superplanet) | [<img src="Filp/data/animations/Tourbillon/preview.png" width="120"><br>Tourbillon](#filp-tourbillon) | [<img src="Filp/data/animations/VariableStars/preview.png" width="120"><br>VariableStars](#filp-variablestars) | [<img src="Filp/data/animations/Weatherwhite/preview.png" width="120"><br>Weatherwhite](#filp-weatherwhite) |
+| [<img src="Filp/data/animations/Spider/preview.png" width="120"><br>Spider](#filp-spider) | [<img src="Filp/data/animations/Streamspeed/preview.png" width="120"><br>Streamspeed](#filp-streamspeed) | [<img src="Filp/data/animations/Superplanet/preview.png" width="120"><br>Superplanet](#filp-superplanet) | [<img src="Filp/data/animations/Tourbillon/preview.png" width="120"><br>黑耀陀飞轮](#filp-tourbillon) | [<img src="Filp/data/animations/VariableStars/preview.png" width="120"><br>VariableStars](#filp-variablestars) | [<img src="Filp/data/animations/Weatherwhite/preview.png" width="120"><br>云游幻境](#filp-weatherwhite) |
 | [<img src="Filp/data/animations/XHero/preview.png" width="120"><br>XHero](#filp-xhero) | [<img src="Filp/data/animations/Youthful/preview.png" width="120"><br>Youthful](#filp-youthful) |
 
 ---
@@ -49,7 +49,7 @@
 <a id="theme-aobing"></a>
 ### 敖丙  
 - source: `aobing(aobing)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/aobing/preview/1_preview_main.png" width="200">
 
@@ -68,7 +68,7 @@
 <a id="theme-boundlessspace"></a>
 ### 无垠太空  
 - source: `boundlessspace(boundlessspace)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/boundlessspace/preview/1_preview_main.png" width="200">
 
@@ -87,7 +87,7 @@
 <a id="theme-bumpuworld"></a>
 ### 夏日凹凸  
 - source: `bumpuworld(bumpuworld)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/bumpuworld/preview/1_preview_main.png" width="200">
 
@@ -106,7 +106,7 @@
 <a id="theme-collection"></a>
 ### 石曜典藏  
 - source: `collection(collection)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/collection/preview/1_preview_main.png" width="200">
 
@@ -125,7 +125,7 @@
 <a id="theme-componentdial"></a>
 ### 多功能主题  
 - source: `componentdial(componentdial)`
-
+- 类型: `12 (None)`
 
 <img src="Themes/theme_pack/componentdial/preview/1_preview_main.png" width="200">
 
@@ -144,7 +144,7 @@
 <a id="theme-conan"></a>
 ### 名侦探柯南  
 - source: `conan(conan)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/conan/preview/1_preview_main.png" width="200">
 
@@ -163,7 +163,7 @@
 <a id="theme-conan1"></a>
 ### 柯南侦探  
 - source: `conan1(conan1)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/conan1/preview/1_preview_main.png" width="200">
 
@@ -182,7 +182,7 @@
 <a id="theme-cyberlightchess"></a>
 ### 赛博光弈  
 - source: `cyberlightchess(cyberlightchess)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/cyberlightchess/preview/1_preview_main.png" width="200">
 
@@ -201,7 +201,7 @@
 <a id="theme-darkblue"></a>
 ### 暗蓝宇宙  
 - source: `darkBlue(darkBlue)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/darkBlue/preview/1_preview_main.png" width="200">
 
@@ -220,7 +220,7 @@
 <a id="theme-defaultspace"></a>
 ### 太空奇遇  
 - source: `defaultspace(defaultspace)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/defaultspace/preview/1_preview_main.png" width="200">
 
@@ -239,7 +239,7 @@
 <a id="theme-dimension"></a>
 ### 次元空间  
 - source: `dimension(dimension)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/dimension/preview/1_preview_main.png" width="200">
 
@@ -258,7 +258,7 @@
 <a id="theme-eternallightstate"></a>
 ### 永恒光境  
 - source: `eternallightstate(eternallightstate)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/eternallightstate/preview/1_preview_main.png" width="200">
 
@@ -277,7 +277,7 @@
 <a id="theme-excellent"></a>
 ### 了然出色  
 - source: `Excellent(Excellent)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/Excellent/preview/1_preview_main.png" width="200">
 
@@ -296,7 +296,7 @@
 <a id="theme-fish"></a>
 ### 北冥有鱼  
 - source: `fish(fish)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/fish/preview/1_preview_main.png" width="200">
 
@@ -315,7 +315,7 @@
 <a id="theme-furina"></a>
 ### 芙宁娜  
 - source: `furina(furina)`
-
+- 类型: `10 (WALLPAPER2)`
 >*此资源由第三方提供: [难安](mailto:3821819619@qq.com) & [baiyao105](mailto:nell_baiyao@outlook.com)*
 
 <img src="Themes/theme_pack/furina/preview/1_preview_main.png" width="200">
@@ -335,7 +335,7 @@
 <a id="theme-fybloom"></a>
 ### 盈茧炽盛  
 - source: `fybloom(fybloom)`
-
+- 类型: `10 (WALLPAPER2)`
 >*此资源由第三方提供: [新初创极光](mailto:1368024019@qq.com) & [baiyao105](mailto:nell_baiyao@outlook.com)*
 
 <img src="Themes/theme_pack/fybloom/preview/1_preview_main.png" width="200">
@@ -355,7 +355,7 @@
 <a id="theme-glarespacetime"></a>
 ### 炫光时空  
 - source: `glarespacetime(glarespacetime)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/glarespacetime/preview/1_preview_main.png" width="200">
 
@@ -374,7 +374,7 @@
 <a id="theme-gongtengxinyi"></a>
 ### 工藤新一  
 - source: `gongtengxinyi(gongtengxinyi)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/gongtengxinyi/preview/1_preview_main.png" width="200">
 
@@ -393,7 +393,7 @@
 <a id="theme-gorgeous"></a>
 ### 舞曲流光  
 - source: `gorgeous(gorgeous)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/gorgeous/preview/1_preview_main.png" width="200">
 
@@ -412,7 +412,7 @@
 <a id="theme-hornets"></a>
 ### 大黄蜂  
 - source: `hornets(hornets)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/hornets/preview/1_preview_main.png" width="200">
 
@@ -431,7 +431,7 @@
 <a id="theme-junmanafu"></a>
 ### 骏马纳福  
 - source: `junmanafu(junmanafu)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/junmanafu/preview/1_preview_main.png" width="200">
 
@@ -450,7 +450,7 @@
 <a id="theme-kaleidoscope"></a>
 ### 万花疏影  
 - source: `kaleidoscope(kaleidoscope)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/kaleidoscope/preview/1_preview_main.png" width="200">
 
@@ -469,7 +469,7 @@
 <a id="theme-lingguangziwu"></a>
 ### 凌光紫雾  
 - source: `lingguangziwu(lingguangziwu)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/lingguangziwu/preview/1_preview_main.png" width="200">
 
@@ -488,7 +488,7 @@
 <a id="theme-littlepony"></a>
 ### 小马宝莉  
 - source: `littlepony(littlepony)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/littlepony/preview/1_preview_main.png" width="200">
 
@@ -507,7 +507,7 @@
 <a id="theme-littleponychange"></a>
 ### 百变魔法  
 - source: `littleponychange(littleponychange)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/littleponychange/preview/1_preview_main.png" width="200">
 
@@ -526,7 +526,7 @@
 <a id="theme-mirrorlight"></a>
 ### 镜光之都  
 - source: `mirrorlight(mirrorlight)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/mirrorlight/preview/1_preview_main.png" width="200">
 
@@ -545,7 +545,7 @@
 <a id="theme-mubaitime"></a>
 ### 慕白时空  
 - source: `mubaitime(mubaitime)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/mubaitime/preview/1_preview_main.png" width="200">
 
@@ -564,7 +564,7 @@
 <a id="theme-oscolorful"></a>
 ### 蓝宇流光  
 - source: `oscolorful(oscolorful)`
-
+- 类型: `7 (WALLPAPER / WALLPAPER_DIAL)`
 
 <img src="Themes/theme_pack/oscolorful/preview/1_preview_main.png" width="200">
 
@@ -583,7 +583,7 @@
 <a id="theme-oscolorful2"></a>
 ### 星际探秘  
 - source: `oscolorful2(oscolorful2)`
-
+- 类型: `7 (WALLPAPER / WALLPAPER_DIAL)`
 
 <img src="Themes/theme_pack/oscolorful2/preview/1_preview_main.png" width="200">
 
@@ -602,7 +602,7 @@
 <a id="theme-osgreen"></a>
 ### 新绿之力  
 - source: `osgreen(osgreen)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/osgreen/preview/1_preview_main.png" width="200">
 
@@ -621,7 +621,7 @@
 <a id="theme-ospurple"></a>
 ### 黛紫之舞  
 - source: `ospurple(ospurple)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/ospurple/preview/1_preview_main.png" width="200">
 
@@ -640,7 +640,7 @@
 <a id="theme-powderspace"></a>
 ### 粉影空间  
 - source: `powderspace(powderspace)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/powderspace/preview/1_preview_main.png" width="200">
 
@@ -659,7 +659,7 @@
 <a id="theme-punktime"></a>
 ### 朋克纪元  
 - source: `punkTime(punkTime)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/punkTime/preview/1_preview_main.png" width="200">
 
@@ -678,7 +678,7 @@
 <a id="theme-qtzmechanics"></a>
 ### 擎天柱  
 - source: `qtzmechanics(qtzmechanics)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/qtzmechanics/preview/1_preview_main.png" width="200">
 
@@ -697,7 +697,7 @@
 <a id="theme-richuriluo"></a>
 ### 日出日落  
 - source: `richuriluo(richuriluo)`
-
+- 类型: `12 (None)`
 
 <img src="Themes/theme_pack/richuriluo/preview/1_preview_main.png" width="200">
 
@@ -716,7 +716,7 @@
 <a id="theme-riyuexingchen"></a>
 ### 日月星辰  
 - source: `riyuexingchen(riyuexingchen)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/riyuexingchen/preview/1_preview_main.png" width="200">
 
@@ -735,7 +735,7 @@
 <a id="theme-rochover"></a>
 ### 鹏路翱翔  
 - source: `rochover(rochover)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/rochover/preview/1_preview_main.png" width="200">
 
@@ -754,7 +754,7 @@
 <a id="theme-snakeyear2025"></a>
 ### 萌蛇送福  
 - source: `snakeyear2025(snakeyear2025)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/snakeyear2025/preview/1_preview_main.png" width="200">
 
@@ -773,7 +773,7 @@
 <a id="theme-softlightdance"></a>
 ### 柔光舞动  
 - source: `softlightdance(softlightdance)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/softlightdance/preview/1_preview_main.png" width="200">
 
@@ -792,7 +792,7 @@
 <a id="theme-spaceflight"></a>
 ### 神舟飞天  
 - source: `spaceflight(spaceflight)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/spaceflight/preview/1_preview_main.png" width="200">
 
@@ -811,7 +811,7 @@
 <a id="theme-spacetime"></a>
 ### 时空秩序  
 - source: `spacetime(spacetime)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/spacetime/preview/1_preview_main.png" width="200">
 
@@ -830,7 +830,7 @@
 <a id="theme-streamspeed"></a>
 ### 疾速流光  
 - source: `streamspeed(streamspeed)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/streamspeed/preview/1_preview_main.png" width="200">
 
@@ -849,7 +849,7 @@
 <a id="theme-superplanet"></a>
 ### 超级星球  
 - source: `superplanet(superplanet)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/superplanet/preview/1_preview_main.png" width="200">
 
@@ -868,7 +868,7 @@
 <a id="theme-superrhythm"></a>
 ### 超能律动  
 - source: `superrhythm(superrhythm)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/superrhythm/preview/1_preview_main.png" width="200">
 
@@ -887,7 +887,7 @@
 <a id="theme-timeflower"></a>
 ### 步步生花  
 - source: `timeflower(timeflower)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/timeflower/preview/1_preview_main.png" width="200">
 
@@ -906,7 +906,7 @@
 <a id="theme-timeflowersn"></a>
 ### 时间花语  
 - source: `timeflowerSN(timeflowerSN)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/timeflowerSN/preview/1_preview_main.png" width="200">
 
@@ -925,7 +925,7 @@
 <a id="theme-tourbillon"></a>
 ### 黑耀陀飞轮  
 - source: `tourbillon(tourbillon)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/tourbillon/preview/1_preview_main.png" width="200">
 
@@ -943,7 +943,7 @@
 <a id="theme-weatherwhite"></a>
 ### 场景天气  
 - source: `weatherwhite(weatherwhite)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/weatherwhite/preview/1_preview_main.png" width="200">
 
@@ -961,7 +961,7 @@
 <a id="theme-windwings"></a>
 ### 追风之翼  
 - source: `windwings(windwings)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/windwings/preview/1_preview_main.png" width="200">
 
@@ -980,7 +980,7 @@
 <a id="theme-yujiekongjian"></a>
 ### 宇界空间  
 - source: `yujiekongjian(yujiekongjian)`
-
+- 类型: `10 (WALLPAPER2)`
 
 <img src="Themes/theme_pack/yujiekongjian/preview/1_preview_main.png" width="200">
 
@@ -1005,6 +1005,15 @@
 
 <img src="Themes/dial/res/bubbles1/preview_main.png" width="200">
 
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/bubbles1/all_background.png" width="160">
+<img src="Themes/dial/res/bubbles1/bg.png" width="160">
+<img src="Themes/dial/res/bubbles1/preview_launcher.png" width="160">
+
+</details>
+
 ---
 
 <a id="dial-exploration1"></a>
@@ -1012,6 +1021,14 @@
 
 
 <img src="Themes/dial/res/exploration1/preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/exploration1/all_background.png" width="160">
+<img src="Themes/dial/res/exploration1/preview_launcher.png" width="160">
+
+</details>
 
 ---
 
@@ -1021,6 +1038,14 @@
 
 <img src="Themes/dial/res/greenpoint/preview_main.png" width="200">
 
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/greenpoint/all_background.png" width="160">
+<img src="Themes/dial/res/greenpoint/preview_launcher.png" width="160">
+
+</details>
+
 ---
 
 <a id="dial-heartbeat"></a>
@@ -1028,6 +1053,14 @@
 
 
 <img src="Themes/dial/res/heartbeat/preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/heartbeat/all_background.png" width="160">
+<img src="Themes/dial/res/heartbeat/preview_launcher.png" width="160">
+
+</details>
 
 ---
 
@@ -1037,6 +1070,14 @@
 
 <img src="Themes/dial/res/nfc1/preview_main.png" width="200">
 
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/nfc1/all_background.png" width="160">
+<img src="Themes/dial/res/nfc1/preview_launcher.png" width="160">
+
+</details>
+
 ---
 
 <a id="dial-sky2021"></a>
@@ -1044,6 +1085,14 @@
 
 
 <img src="Themes/dial/res/sky2021/preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/sky2021/all_background.png" width="160">
+<img src="Themes/dial/res/sky2021/preview_launcher.png" width="160">
+
+</details>
 
 ---
 
@@ -1053,6 +1102,14 @@
 
 <img src="Themes/dial/res/sporthealth/preview_main.png" width="200">
 
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/sporthealth/all_background.png" width="160">
+<img src="Themes/dial/res/sporthealth/preview_launcher.png" width="160">
+
+</details>
+
 ---
 
 <a id="dial-tecentsport1"></a>
@@ -1060,6 +1117,14 @@
 
 
 <img src="Themes/dial/res/tecentsport1/preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/tecentsport1/all_background.png" width="160">
+<img src="Themes/dial/res/tecentsport1/preview_launcher.png" width="160">
+
+</details>
 
 ---
 
@@ -1069,6 +1134,14 @@
 
 <img src="Themes/dial/res/wonderland/preview_main.png" width="200">
 
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/wonderland/all_background.png" width="160">
+<img src="Themes/dial/res/wonderland/preview_launcher.png" width="160">
+
+</details>
+
 ---
 
 <a id="dial-yinyangshi"></a>
@@ -1076,6 +1149,14 @@
 
 
 <img src="Themes/dial/res/yinyangshi/preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/dial/res/yinyangshi/all_background.png" width="160">
+<img src="Themes/dial/res/yinyangshi/preview_launcher.png" width="160">
+
+</details>
 
 
 ## ⚡ 充电动画
@@ -1345,8 +1426,9 @@
 
 <a id="filp-gongtengxinyi"></a>
 
-### Gongtengxinyi
+### 工藤新一
 <sub>Gongtengxinyi</sub>
+- source: `Gongtengxinyi`
 
 <img src="Filp/data/animations/Gongtengxinyi/preview.png" width="200">
 
@@ -1750,8 +1832,9 @@
 
 <a id="filp-tourbillon"></a>
 
-### Tourbillon
+### 黑耀陀飞轮
 <sub>Tourbillon</sub>
+- source: `Tourbillon`
 
 <img src="Filp/data/animations/Tourbillon/preview.png" width="200">
 
@@ -1804,8 +1887,9 @@
 
 <a id="filp-weatherwhite"></a>
 
-### Weatherwhite
+### 云游幻境
 <sub>Weatherwhite</sub>
+- source: `Weatherwhite`
 
 <img src="Filp/data/animations/Weatherwhite/preview.png" width="200">
 
