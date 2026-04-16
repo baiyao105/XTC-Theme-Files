@@ -2,8 +2,6 @@ import json
 from pathlib import Path
 
 ROOT = Path.cwd().parent
-BASE = ROOT / "Themes" / "theme_pack"
-CONFIG = BASE / "config.json"
 
 
 def read_json(p: Path):
@@ -17,8 +15,8 @@ def write_json(p: Path, data):
     p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def collect_folders():
-    return [f.name for f in BASE.iterdir() if f.is_dir()]
+def collect_folders(path: Path):
+    return [f.name for f in path.iterdir() if f.is_dir()] if path.exists() else []
 
 
 def replace_all_values(obj, value):
@@ -26,24 +24,56 @@ def replace_all_values(obj, value):
         return {k: replace_all_values(v, value) for k, v in obj.items()}
     elif isinstance(obj, list):
         return [replace_all_values(i, value) for i in obj]
-    else:
-        return value
+    return value
+
+
+TASKS = [
+    {
+        "name": "theme",
+        "dir": ROOT / "Themes" / "theme_pack",
+        "config": ROOT / "Themes" / "theme_pack" / "config.json",
+        "mode": "fill_all",
+    },
+    {
+        "name": "anim",
+        "dir": ROOT / "Filp" / "data" / "animations",
+        "config": ROOT / "Filp" / "data" / "animations" / "hallAnimConfig.json",
+        "mode": "fill_all",
+    },
+    {
+        "name": "sound",
+        "dir": ROOT / "Filp" / "data" / "sounds",
+        "config": ROOT / "Filp" / "data" / "sounds" / "hallSoundConfig.json",
+        "mode": "fill_all",
+    },
+]
+
+
+def run_task(task):
+    folders = collect_folders(task["dir"])
+    print(task["name"], ":", folders)
+
+    if not task["config"].exists():
+        print(task["name"], "config 不存在喵")
+        return
+
+    data = read_json(task["config"])
+    if not isinstance(data, dict):
+        print(task["name"], "config 不是 dict")
+        return
+
+    value = ",".join(folders)
+    new_data = replace_all_values(data, value)
+
+    write_json(task["config"], new_data)
+    print(task["name"], "完成喵")
 
 
 def main():
-    if not CONFIG.exists():
-        print("config.json 不存在喵")
-        return
+    for t in TASKS:
+        run_task(t)
 
-    folders = collect_folders()
-    print("主题:", folders)
-    data = read_json(CONFIG)
-    if not isinstance(data, dict):
-        print("config.json 不是合法 JSON")
-        return
-    new_data = replace_all_values(data, ",".join(folders))
-    write_json(CONFIG, new_data)
-    print("完成喵")
+    print("全部完成喵")
 
 
 if __name__ == "__main__":
