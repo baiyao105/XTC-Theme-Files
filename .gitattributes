@@ -1,3 +1,5 @@
 Themes/** filter=lfs diff=lfs merge=lfs -text
 Filp/** filter=lfs diff=lfs merge=lfs -text
 theme.apk filter=lfs diff=lfs merge=lfs -text
+Themes/**/*.json -filter -diff -merge text
+Filp/**/*.json -filter -diff -merge text
