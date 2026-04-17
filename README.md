@@ -125,7 +125,7 @@
 <a id="theme-componentdial"></a>
 ### 多功能主题  
 - source: `componentdial(componentdial)`
-- 类型: `12 (None)`
+- 类型: `12 (WATCH_FACE_FORMAT_EDITABLE)`
 
 <img src="Themes/theme_pack/componentdial/preview/1_preview_main.png" width="200">
 
@@ -716,7 +716,7 @@
 <a id="theme-richuriluo"></a>
 ### 日出日落  
 - source: `richuriluo(richuriluo)`
-- 类型: `12 (None)`
+- 类型: `12 (WATCH_FACE_FORMAT_EDITABLE)`
 
 <img src="Themes/theme_pack/richuriluo/preview/1_preview_main.png" width="200">
 
