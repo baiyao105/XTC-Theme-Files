@@ -9,15 +9,15 @@
 
 ## 🎨 主题
 
-| [<img src="Themes/theme_pack/aobing/preview/1_preview_main.png" width="120"><br>敖丙](#theme-aobing) | [<img src="Themes/theme_pack/boundlessspace/preview/1_preview_main.png" width="120"><br>无垠太空](#theme-boundlessspace) | [<img src="Themes/theme_pack/bumpuworld/preview/1_preview_main.png" width="120"><br>夏日凹凸](#theme-bumpuworld) | [<img src="Themes/theme_pack/collection/preview/1_preview_main.png" width="120"><br>石曜典藏](#theme-collection) | [<img src="Themes/theme_pack/componentdial/preview/1_preview_main.png" width="120"><br>多功能主题](#theme-componentdial) | [<img src="Themes/theme_pack/conan/preview/1_preview_main.png" width="120"><br>名侦探柯南](#theme-conan) | [<img src="Themes/theme_pack/conan1/preview/1_preview_main.png" width="120"><br>柯南侦探](#theme-conan1) |
+| [<img src="Themes/theme_pack/aobing/preview/1_preview_main.png" width="120"><br>敖丙](#theme-aobing) | [<img src="Themes/theme_pack/boundlessspace/preview/1_preview_main.png" width="120"><br>无垠太空](#theme-boundlessspace) | [<img src="Themes/theme_pack/bumpuworld/preview/1_preview_main.png" width="120"><br>夏日凹凸](#theme-bumpuworld) | [<img src="Themes/theme_pack/childrenspecial/preview/1_preview_main.png" width="120"><br>滴答小蜗](#theme-childrenspecial) | [<img src="Themes/theme_pack/collection/preview/1_preview_main.png" width="120"><br>石曜典藏](#theme-collection) | [<img src="Themes/theme_pack/colorfultime/preview/1_preview_main.png" width="120"><br>亮彩时分](#theme-colorfultime) | [<img src="Themes/theme_pack/componentdial/preview/1_preview_main.png" width="120"><br>多功能主题](#theme-componentdial) |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<img src="Themes/theme_pack/cyberlightchess/preview/1_preview_main.png" width="120"><br>赛博光弈](#theme-cyberlightchess) | [<img src="Themes/theme_pack/darkBlue/preview/1_preview_main.png" width="120"><br>暗蓝宇宙](#theme-darkblue) | [<img src="Themes/theme_pack/defaultspace/preview/1_preview_main.png" width="120"><br>太空奇遇](#theme-defaultspace) | [<img src="Themes/theme_pack/dimension/preview/1_preview_main.png" width="120"><br>次元空间](#theme-dimension) | [<img src="Themes/theme_pack/eternallightstate/preview/1_preview_main.png" width="120"><br>永恒光境](#theme-eternallightstate) | [<img src="Themes/theme_pack/Excellent/preview/1_preview_main.png" width="120"><br>了然出色](#theme-excellent) | [<img src="Themes/theme_pack/fish/preview/1_preview_main.png" width="120"><br>北冥有鱼](#theme-fish) |
-| [<img src="Themes/theme_pack/frozenz9/preview/1_preview_main.png" width="120"><br>Elsa](#theme-frozenz9) | [<img src="Themes/theme_pack/furina/preview/1_preview_main.png" width="120"><br>芙宁娜](#theme-furina) | [<img src="Themes/theme_pack/fybloom/preview/1_preview_main.png" width="120"><br>盈茧炽盛](#theme-fybloom) | [<img src="Themes/theme_pack/glarespacetime/preview/1_preview_main.png" width="120"><br>炫光时空](#theme-glarespacetime) | [<img src="Themes/theme_pack/gongtengxinyi/preview/1_preview_main.png" width="120"><br>工藤新一](#theme-gongtengxinyi) | [<img src="Themes/theme_pack/gorgeous/preview/1_preview_main.png" width="120"><br>舞曲流光](#theme-gorgeous) | [<img src="Themes/theme_pack/hornets/preview/1_preview_main.png" width="120"><br>大黄蜂](#theme-hornets) |
-| [<img src="Themes/theme_pack/junmanafu/preview/1_preview_main.png" width="120"><br>骏马纳福](#theme-junmanafu) | [<img src="Themes/theme_pack/kaleidoscope/preview/1_preview_main.png" width="120"><br>万花疏影](#theme-kaleidoscope) | [<img src="Themes/theme_pack/lingguangziwu/preview/1_preview_main.png" width="120"><br>凌光紫雾](#theme-lingguangziwu) | [<img src="Themes/theme_pack/littlepony/preview/1_preview_main.png" width="120"><br>小马宝莉](#theme-littlepony) | [<img src="Themes/theme_pack/littleponychange/preview/1_preview_main.png" width="120"><br>百变魔法](#theme-littleponychange) | [<img src="Themes/theme_pack/mirrorlight/preview/1_preview_main.png" width="120"><br>镜光之都](#theme-mirrorlight) | [<img src="Themes/theme_pack/mubaitime/preview/1_preview_main.png" width="120"><br>慕白时空](#theme-mubaitime) |
-| [<img src="Themes/theme_pack/oscolorful/preview/1_preview_main.png" width="120"><br>蓝宇流光](#theme-oscolorful) | [<img src="Themes/theme_pack/oscolorful2/preview/1_preview_main.png" width="120"><br>星际探秘](#theme-oscolorful2) | [<img src="Themes/theme_pack/osgreen/preview/1_preview_main.png" width="120"><br>新绿之力](#theme-osgreen) | [<img src="Themes/theme_pack/ospurple/preview/1_preview_main.png" width="120"><br>黛紫之舞](#theme-ospurple) | [<img src="Themes/theme_pack/powderspace/preview/1_preview_main.png" width="120"><br>粉影空间](#theme-powderspace) | [<img src="Themes/theme_pack/punkTime/preview/1_preview_main.png" width="120"><br>朋克纪元](#theme-punktime) | [<img src="Themes/theme_pack/qtzmechanics/preview/1_preview_main.png" width="120"><br>擎天柱](#theme-qtzmechanics) |
-| [<img src="Themes/theme_pack/richuriluo/preview/1_preview_main.png" width="120"><br>日出日落](#theme-richuriluo) | [<img src="Themes/theme_pack/riyuexingchen/preview/1_preview_main.png" width="120"><br>日月星辰](#theme-riyuexingchen) | [<img src="Themes/theme_pack/rochover/preview/1_preview_main.png" width="120"><br>鹏路翱翔](#theme-rochover) | [<img src="Themes/theme_pack/smallspiderman/preview/1_preview_main.png" width="120"><br>小蜘蛛侠](#theme-smallspiderman) | [<img src="Themes/theme_pack/snakeyear2025/preview/1_preview_main.png" width="120"><br>萌蛇送福](#theme-snakeyear2025) | [<img src="Themes/theme_pack/softlightdance/preview/1_preview_main.png" width="120"><br>柔光舞动](#theme-softlightdance) | [<img src="Themes/theme_pack/spaceflight/preview/1_preview_main.png" width="120"><br>神舟飞天](#theme-spaceflight) |
-| [<img src="Themes/theme_pack/spacetime/preview/1_preview_main.png" width="120"><br>时空秩序](#theme-spacetime) | [<img src="Themes/theme_pack/streamspeed/preview/1_preview_main.png" width="120"><br>疾速流光](#theme-streamspeed) | [<img src="Themes/theme_pack/superplanet/preview/1_preview_main.png" width="120"><br>超级星球](#theme-superplanet) | [<img src="Themes/theme_pack/superrhythm/preview/1_preview_main.png" width="120"><br>超能律动](#theme-superrhythm) | [<img src="Themes/theme_pack/timeflower/preview/1_preview_main.png" width="120"><br>步步生花](#theme-timeflower) | [<img src="Themes/theme_pack/timeflowerSN/preview/1_preview_main.png" width="120"><br>时间花语](#theme-timeflowersn) | [<img src="Themes/theme_pack/tourbillon/preview/1_preview_main.png" width="120"><br>黑耀陀飞轮](#theme-tourbillon) |
-| [<img src="Themes/theme_pack/weatherwhite/preview/1_preview_main.png" width="120"><br>场景天气](#theme-weatherwhite) | [<img src="Themes/theme_pack/windwings/preview/1_preview_main.png" width="120"><br>追风之翼](#theme-windwings) | [<img src="Themes/theme_pack/yujiekongjian/preview/1_preview_main.png" width="120"><br>宇界空间](#theme-yujiekongjian) |
+| [<img src="Themes/theme_pack/conan/preview/1_preview_main.png" width="120"><br>名侦探柯南](#theme-conan) | [<img src="Themes/theme_pack/conan1/preview/1_preview_main.png" width="120"><br>柯南侦探](#theme-conan1) | [<img src="Themes/theme_pack/cyberlightchess/preview/1_preview_main.png" width="120"><br>赛博光弈](#theme-cyberlightchess) | [<img src="Themes/theme_pack/darkBlue/preview/1_preview_main.png" width="120"><br>暗蓝宇宙](#theme-darkblue) | [<img src="Themes/theme_pack/defaultspace/preview/1_preview_main.png" width="120"><br>太空奇遇](#theme-defaultspace) | [<img src="Themes/theme_pack/dimension/preview/1_preview_main.png" width="120"><br>次元空间](#theme-dimension) | [<img src="Themes/theme_pack/eternallightstate/preview/1_preview_main.png" width="120"><br>永恒光境](#theme-eternallightstate) |
+| [<img src="Themes/theme_pack/Excellent/preview/1_preview_main.png" width="120"><br>了然出色](#theme-excellent) | [<img src="Themes/theme_pack/fish/preview/1_preview_main.png" width="120"><br>北冥有鱼](#theme-fish) | [<img src="Themes/theme_pack/frozenz9/preview/1_preview_main.png" width="120"><br>Elsa](#theme-frozenz9) | [<img src="Themes/theme_pack/furina/preview/1_preview_main.png" width="120"><br>芙宁娜](#theme-furina) | [<img src="Themes/theme_pack/fybloom/preview/1_preview_main.png" width="120"><br>盈茧炽盛](#theme-fybloom) | [<img src="Themes/theme_pack/glarespacetime/preview/1_preview_main.png" width="120"><br>炫光时空](#theme-glarespacetime) | [<img src="Themes/theme_pack/gongtengxinyi/preview/1_preview_main.png" width="120"><br>工藤新一](#theme-gongtengxinyi) |
+| [<img src="Themes/theme_pack/gorgeous/preview/1_preview_main.png" width="120"><br>舞曲流光](#theme-gorgeous) | [<img src="Themes/theme_pack/hornets/preview/1_preview_main.png" width="120"><br>大黄蜂](#theme-hornets) | [<img src="Themes/theme_pack/junmanafu/preview/1_preview_main.png" width="120"><br>骏马纳福](#theme-junmanafu) | [<img src="Themes/theme_pack/kaleidoscope/preview/1_preview_main.png" width="120"><br>万花疏影](#theme-kaleidoscope) | [<img src="Themes/theme_pack/lingguangziwu/preview/1_preview_main.png" width="120"><br>凌光紫雾](#theme-lingguangziwu) | [<img src="Themes/theme_pack/littlepony/preview/1_preview_main.png" width="120"><br>小马宝莉](#theme-littlepony) | [<img src="Themes/theme_pack/littleponychange/preview/1_preview_main.png" width="120"><br>百变魔法](#theme-littleponychange) |
+| [<img src="Themes/theme_pack/mikuq/preview/1_preview_main.png" width="120"><br>初音Q版](#theme-mikuq) | [<img src="Themes/theme_pack/mirrorlight/preview/1_preview_main.png" width="120"><br>镜光之都](#theme-mirrorlight) | [<img src="Themes/theme_pack/mubaitime/preview/1_preview_main.png" width="120"><br>慕白时空](#theme-mubaitime) | [<img src="Themes/theme_pack/oscolorful/preview/1_preview_main.png" width="120"><br>蓝宇流光](#theme-oscolorful) | [<img src="Themes/theme_pack/oscolorful2/preview/1_preview_main.png" width="120"><br>星际探秘](#theme-oscolorful2) | [<img src="Themes/theme_pack/osgreen/preview/1_preview_main.png" width="120"><br>新绿之力](#theme-osgreen) | [<img src="Themes/theme_pack/ospurple/preview/1_preview_main.png" width="120"><br>黛紫之舞](#theme-ospurple) |
+| [<img src="Themes/theme_pack/powderspace/preview/1_preview_main.png" width="120"><br>粉影空间](#theme-powderspace) | [<img src="Themes/theme_pack/punkTime/preview/1_preview_main.png" width="120"><br>朋克纪元](#theme-punktime) | [<img src="Themes/theme_pack/qtzmechanics/preview/1_preview_main.png" width="120"><br>擎天柱](#theme-qtzmechanics) | [<img src="Themes/theme_pack/richuriluo/preview/1_preview_main.png" width="120"><br>日出日落](#theme-richuriluo) | [<img src="Themes/theme_pack/riyuexingchen/preview/1_preview_main.png" width="120"><br>日月星辰](#theme-riyuexingchen) | [<img src="Themes/theme_pack/rochover/preview/1_preview_main.png" width="120"><br>鹏路翱翔](#theme-rochover) | [<img src="Themes/theme_pack/smallspiderman/preview/1_preview_main.png" width="120"><br>小蜘蛛侠](#theme-smallspiderman) |
+| [<img src="Themes/theme_pack/snakeyear2025/preview/1_preview_main.png" width="120"><br>萌蛇送福](#theme-snakeyear2025) | [<img src="Themes/theme_pack/softlightdance/preview/1_preview_main.png" width="120"><br>柔光舞动](#theme-softlightdance) | [<img src="Themes/theme_pack/spaceflight/preview/1_preview_main.png" width="120"><br>神舟飞天](#theme-spaceflight) | [<img src="Themes/theme_pack/spacetime/preview/1_preview_main.png" width="120"><br>时空秩序](#theme-spacetime) | [<img src="Themes/theme_pack/streamspeed/preview/1_preview_main.png" width="120"><br>疾速流光](#theme-streamspeed) | [<img src="Themes/theme_pack/superplanet/preview/1_preview_main.png" width="120"><br>超级星球](#theme-superplanet) | [<img src="Themes/theme_pack/superrhythm/preview/1_preview_main.png" width="120"><br>超能律动](#theme-superrhythm) |
+| [<img src="Themes/theme_pack/timeflower/preview/1_preview_main.png" width="120"><br>步步生花](#theme-timeflower) | [<img src="Themes/theme_pack/timeflowerSN/preview/1_preview_main.png" width="120"><br>时间花语](#theme-timeflowersn) | [<img src="Themes/theme_pack/tourbillon/preview/1_preview_main.png" width="120"><br>黑耀陀飞轮](#theme-tourbillon) | [<img src="Themes/theme_pack/weatherwhite/preview/1_preview_main.png" width="120"><br>场景天气](#theme-weatherwhite) | [<img src="Themes/theme_pack/windwings/preview/1_preview_main.png" width="120"><br>追风之翼](#theme-windwings) | [<img src="Themes/theme_pack/yujiekongjian/preview/1_preview_main.png" width="120"><br>宇界空间](#theme-yujiekongjian) |
 
 ## ⌚ 表盘
 
@@ -103,6 +103,25 @@
 
 ---
 
+<a id="theme-childrenspecial"></a>
+### 滴答小蜗  
+- source: `childrenspecial(childrenspecial)`
+- 类型: `10 (WALLPAPER2)`
+
+<img src="Themes/theme_pack/childrenspecial/preview/1_preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/theme_pack/childrenspecial/preview/2_preview_telephone.png" width="160">
+<img src="Themes/theme_pack/childrenspecial/preview/3_preview_chat.png" width="160">
+<img src="Themes/theme_pack/childrenspecial/preview/4_preview_exhibit.png" width="160">
+<img src="Themes/theme_pack/childrenspecial/preview/5_preview_features.png" width="160">
+
+</details>
+
+---
+
 <a id="theme-collection"></a>
 ### 石曜典藏  
 - source: `collection(collection)`
@@ -117,6 +136,25 @@
 <img src="Themes/theme_pack/collection/preview/3_preview_chat.png" width="160">
 <img src="Themes/theme_pack/collection/preview/4_preview_exhibit.png" width="160">
 <img src="Themes/theme_pack/collection/preview/5_preview_features.png" width="160">
+
+</details>
+
+---
+
+<a id="theme-colorfultime"></a>
+### 亮彩时分  
+- source: `colorfultime(colorfultime)`
+- 类型: `10 (WALLPAPER2)`
+
+<img src="Themes/theme_pack/colorfultime/preview/1_preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/theme_pack/colorfultime/preview/2_preview_telephone.png" width="160">
+<img src="Themes/theme_pack/colorfultime/preview/3_preview_chat.png" width="160">
+<img src="Themes/theme_pack/colorfultime/preview/4_preview_exhibit.png" width="160">
+<img src="Themes/theme_pack/colorfultime/preview/5_preview_features.png" width="160">
 
 </details>
 
@@ -537,6 +575,27 @@
 <img src="Themes/theme_pack/littleponychange/preview/3_preview_chat.png" width="160">
 <img src="Themes/theme_pack/littleponychange/preview/4_preview_exhibit.png" width="160">
 <img src="Themes/theme_pack/littleponychange/preview/5_preview_features.png" width="160">
+
+</details>
+
+---
+
+<a id="theme-mikuq"></a>
+### 初音Q版  
+- source: `mikuq(mikuq)`
+- 类型: `10 (WALLPAPER2)`
+>*此资源由第三方提供: [难安](mailto:3821819619@qq.com) & [baiyao105](mailto:nell_baiyao@outlook.com)*
+
+<img src="Themes/theme_pack/mikuq/preview/1_preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/theme_pack/mikuq/preview/2_preview_telephone.png" width="160">
+<img src="Themes/theme_pack/mikuq/preview/3_preview_chat.png" width="160">
+<img src="Themes/theme_pack/mikuq/preview/4_preview_exhibit.png" width="160">
+<img src="Themes/theme_pack/mikuq/preview/5_preview_features.png" width="160">
+<img src="Themes/theme_pack/mikuq/preview/6_preview_restscreen.png" width="160">
 
 </details>
 
