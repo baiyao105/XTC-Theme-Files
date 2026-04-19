@@ -17,7 +17,8 @@
 | [<img src="Themes/theme_pack/mikuq/preview/1_preview_main.png" width="120"><br>初音Q版](#theme-mikuq) | [<img src="Themes/theme_pack/mirrorlight/preview/1_preview_main.png" width="120"><br>镜光之都](#theme-mirrorlight) | [<img src="Themes/theme_pack/mubaitime/preview/1_preview_main.png" width="120"><br>慕白时空](#theme-mubaitime) | [<img src="Themes/theme_pack/oscolorful/preview/1_preview_main.png" width="120"><br>蓝宇流光](#theme-oscolorful) | [<img src="Themes/theme_pack/oscolorful2/preview/1_preview_main.png" width="120"><br>星际探秘](#theme-oscolorful2) | [<img src="Themes/theme_pack/osgreen/preview/1_preview_main.png" width="120"><br>新绿之力](#theme-osgreen) | [<img src="Themes/theme_pack/ospurple/preview/1_preview_main.png" width="120"><br>黛紫之舞](#theme-ospurple) |
 | [<img src="Themes/theme_pack/powderspace/preview/1_preview_main.png" width="120"><br>粉影空间](#theme-powderspace) | [<img src="Themes/theme_pack/punkTime/preview/1_preview_main.png" width="120"><br>朋克纪元](#theme-punktime) | [<img src="Themes/theme_pack/qtzmechanics/preview/1_preview_main.png" width="120"><br>擎天柱](#theme-qtzmechanics) | [<img src="Themes/theme_pack/richuriluo/preview/1_preview_main.png" width="120"><br>日出日落](#theme-richuriluo) | [<img src="Themes/theme_pack/riyuexingchen/preview/1_preview_main.png" width="120"><br>日月星辰](#theme-riyuexingchen) | [<img src="Themes/theme_pack/rochover/preview/1_preview_main.png" width="120"><br>鹏路翱翔](#theme-rochover) | [<img src="Themes/theme_pack/smallspiderman/preview/1_preview_main.png" width="120"><br>小蜘蛛侠](#theme-smallspiderman) |
 | [<img src="Themes/theme_pack/snakeyear2025/preview/1_preview_main.png" width="120"><br>萌蛇送福](#theme-snakeyear2025) | [<img src="Themes/theme_pack/softlightdance/preview/1_preview_main.png" width="120"><br>柔光舞动](#theme-softlightdance) | [<img src="Themes/theme_pack/spaceflight/preview/1_preview_main.png" width="120"><br>神舟飞天](#theme-spaceflight) | [<img src="Themes/theme_pack/spacetime/preview/1_preview_main.png" width="120"><br>时空秩序](#theme-spacetime) | [<img src="Themes/theme_pack/streamspeed/preview/1_preview_main.png" width="120"><br>疾速流光](#theme-streamspeed) | [<img src="Themes/theme_pack/superplanet/preview/1_preview_main.png" width="120"><br>超级星球](#theme-superplanet) | [<img src="Themes/theme_pack/superrhythm/preview/1_preview_main.png" width="120"><br>超能律动](#theme-superrhythm) |
-| [<img src="Themes/theme_pack/timeflower/preview/1_preview_main.png" width="120"><br>步步生花](#theme-timeflower) | [<img src="Themes/theme_pack/timeflowerSN/preview/1_preview_main.png" width="120"><br>时间花语](#theme-timeflowersn) | [<img src="Themes/theme_pack/tourbillon/preview/1_preview_main.png" width="120"><br>黑耀陀飞轮](#theme-tourbillon) | [<img src="Themes/theme_pack/weatherwhite/preview/1_preview_main.png" width="120"><br>场景天气](#theme-weatherwhite) | [<img src="Themes/theme_pack/windwings/preview/1_preview_main.png" width="120"><br>追风之翼](#theme-windwings) | [<img src="Themes/theme_pack/yujiekongjian/preview/1_preview_main.png" width="120"><br>宇界空间](#theme-yujiekongjian) |
+| [<img src="Themes/theme_pack/tecentsport1/preview/1_preview_main.png" width="120"><br>奔向未来](#theme-tecentsport1) | [<img src="Themes/theme_pack/template/preview/1_preview_main.png" width="120"><br>颜色值8](#theme-template) | [<img src="Themes/theme_pack/timeflower/preview/1_preview_main.png" width="120"><br>步步生花](#theme-timeflower) | [<img src="Themes/theme_pack/timeflowerSN/preview/1_preview_main.png" width="120"><br>时间花语](#theme-timeflowersn) | [<img src="Themes/theme_pack/tourbillon/preview/1_preview_main.png" width="120"><br>黑耀陀飞轮](#theme-tourbillon) | [<img src="Themes/theme_pack/weatherwhite/preview/1_preview_main.png" width="120"><br>场景天气](#theme-weatherwhite) | [<img src="Themes/theme_pack/windwings/preview/1_preview_main.png" width="120"><br>追风之翼](#theme-windwings) |
+| [<img src="Themes/theme_pack/yujiekongjian/preview/1_preview_main.png" width="120"><br>宇界空间](#theme-yujiekongjian) |
 
 ## ⌚ 表盘
 
@@ -976,6 +977,44 @@
 <img src="Themes/theme_pack/superrhythm/preview/3_preview_chat.png" width="160">
 <img src="Themes/theme_pack/superrhythm/preview/4_preview_exhibit.png" width="160">
 <img src="Themes/theme_pack/superrhythm/preview/5_preview_features.png" width="160">
+
+</details>
+
+---
+
+<a id="theme-tecentsport1"></a>
+### 奔向未来  
+- source: `tecentsport1(tecentsport1)`
+- 类型: `10 (WALLPAPER2)`
+
+<img src="Themes/theme_pack/tecentsport1/preview/1_preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/theme_pack/tecentsport1/preview/2_preview_telephone.png" width="160">
+<img src="Themes/theme_pack/tecentsport1/preview/3_preview_chat.png" width="160">
+<img src="Themes/theme_pack/tecentsport1/preview/4_preview_exhibit.png" width="160">
+<img src="Themes/theme_pack/tecentsport1/preview/5_preview_features.png" width="160">
+
+</details>
+
+---
+
+<a id="theme-template"></a>
+### 颜色值8  
+- source: `template(template)`
+- 类型: `12 (WATCH_FACE_FORMAT_EDITABLE)`
+
+<img src="Themes/theme_pack/template/preview/1_preview_main.png" width="200">
+
+<details>
+<summary>预览</summary>
+
+<img src="Themes/theme_pack/template/preview/2_preview_telephone.png" width="160">
+<img src="Themes/theme_pack/template/preview/3_preview_chat.png" width="160">
+<img src="Themes/theme_pack/template/preview/4_preview_exhibit.png" width="160">
+<img src="Themes/theme_pack/template/preview/5_preview_features.png" width="160">
 
 </details>
 
